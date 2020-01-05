@@ -1,0 +1,58 @@
+﻿<tr style="height: 26.25pt;">
+    <td style="width: 26.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="35">
+        <p style="margin-bottom: .0001pt; text-align: right; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#STT#</span></p>
+    </td>
+    <td style="width: .5in; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="48">
+        <p style="margin-bottom: .0001pt; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#Donvi#</span></p>
+    </td>
+    <td style="width: 93.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="124">
+        <p style="margin-bottom: .0001pt; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">##TEN_KHACH_HANG##</span></p>
+    </td>
+    <td style="width: 50.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="67">
+        <p style="margin-bottom: .0001pt; text-align: right; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#Ngaysinh#</span></p>
+    </td>
+    <td style="width: 58.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="77">
+        <p style="margin-bottom: .0001pt; text-align: right; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#CMND#</span></p>
+    </td>
+    <td style="width: 88.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="117">
+        <p style="margin-bottom: .0001pt; text-align: right; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#SoHD#</span></p>
+    </td>
+    <td style="width: 1.0in; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="96">
+        <p style="margin-bottom: .0001pt; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#Tongduno# </span></p>
+    </td>
+    <td style="width: 42.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="56">
+        <p style="margin-bottom: .0001pt; text-align: right; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#SongayQH#</span></p>
+    </td>
+    <td style="width: 59.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="79">
+        <p style="margin-bottom: .0001pt; text-align: right; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#Dienthoai#</span></p>
+    </td>
+    <td style="width: 148.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="197">
+        <p style="margin-bottom: .0001pt; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#Diachi#</span></p>
+    </td>
+    <td style="width: 63.0pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0in 5.4pt 0in 5.4pt; height: 26.25pt;"
+        width="84">
+        <p style="margin-bottom: .0001pt; line-height: normal;"><span
+                style="font-size: 10.0pt; font-family: 'Times New Roman',serif; color: black;">#Quan#</span></p>
+    </td>
+</tr>
+<span id=addrows>
