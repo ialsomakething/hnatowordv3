@@ -14,14 +14,14 @@
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\ToWordV3_1_0_0_53\ToWordV3.exe.manifest" size="9501">
+    <dependentAssembly dependencyType="install" codebase="Application Files\ToWordV3_1_0_0_53\ToWordV3.exe.manifest" size="7465">
       <assemblyIdentity name="ToWordV3.exe" version="1.0.0.53" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>O5GlM3csytW3Gn7TF8L1CLr9ebbDeA5NNMMHyVOEqi8=</dsig:DigestValue>
+        <dsig:DigestValue>m1ZrjxGTvOFeYs3LfUaBTez3ik30dyld6XYcMRZjUZ4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
